@@ -1,0 +1,28 @@
+2021-03-15 오전 8:37:49 : [ExclExtWnds:False]
+2021-03-15 오전 8:37:49 : [Started main loop]
+2021-03-15 오전 8:37:49 : [Application initialization complete (Version 0.5.2)]
+2021-03-15 오전 8:37:49 : [Current exclusions: ]
+2021-03-15 오전 8:37:49 : [TimerSpeed: 100]
+2021-03-15 오전 8:37:49 : [ExclExtWnds:False]
+2021-03-15 오전 8:37:49 : [Whitelist mode: False]
+2021-03-15 오전 8:37:49 : [Automatic update check: True]
+2021-03-15 오전 8:37:49 : [System caption height: 19]
+2021-03-15 오전 8:37:49 : [Checking for updates...]
+2021-03-15 오전 8:37:51 : System.Net.WebException: 요청이 중단되었습니다. SSL/TLS 보안 채널을 만들 수 없습니다.
+   위치: System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   위치: System.Net.WebClient.DownloadString(Uri address)
+   위치: System.Net.WebClient.DownloadString(String address)
+   위치: BasicThemer2.BasicThemer2.<>c__DisplayClass49_0.<updateCheck>b__0() 파일 C:\Users\User\source\repos\BasicThemer2\BasicThemer2\BasicThemer2.cs:줄 508
+2021-03-15 오전 8:37:54 : [UI Visibility: Visible]
+2021-03-15 오전 8:37:57 : [Logging started]
+2021-03-15 오전 8:37:58 : [Checking for updates...]
+2021-03-15 오전 8:37:59 : System.Net.WebException: 요청이 중단되었습니다. SSL/TLS 보안 채널을 만들 수 없습니다.
+   위치: System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   위치: System.Net.WebClient.DownloadString(Uri address)
+   위치: System.Net.WebClient.DownloadString(String address)
+   위치: BasicThemer2.BasicThemer2.<>c__DisplayClass49_0.<updateCheck>b__0() 파일 C:\Users\User\source\repos\BasicThemer2\BasicThemer2\BasicThemer2.cs:줄 508
+2021-03-15 오전 8:37:59 : [New window detected!] lastHwnd: 459986, GetForegroundWindow(): 263628
+2021-03-15 오전 8:37:59 : BasicThemer 2 / BasicThemer2 / 263628 (102, 127, 25, Not extended)
+2021-03-15 오전 8:38:00 : [New window detected!] lastHwnd: 263628, GetForegroundWindow(): 459986
+2021-03-15 오전 8:38:00 : BasicThemer 2 / BasicThemer2 / 459986 (366, 391, 25, Not extended)
+2021-03-15 오전 8:38:00 : [Logging stopped]
